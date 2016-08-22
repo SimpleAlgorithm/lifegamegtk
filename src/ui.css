@@ -1,0 +1,19 @@
+#celula_muerta
+{
+	padding: 0px 10px 0px 10px;
+	background-color: #FFDA7E;
+
+    	border-style: solid;
+    	border-width: 1px;	
+	border-color: white;
+}
+
+#celula_viva
+{
+	padding: 0px 10px 0px 10px;
+	background-color: #4C4E56;
+
+    	border-style: solid;
+    	border-width: 1px;	
+	border-color: white;
+}
